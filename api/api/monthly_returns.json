@@ -35,7 +35,7 @@
     {
       "month": "2015-02",
       "strategy_pct": 3.3616,
-      "buy_and_hold_pct": 5.6204
+      "buy_and_hold_pct": 5.6205
     },
     {
       "month": "2015-03",
@@ -55,12 +55,12 @@
     {
       "month": "2015-06",
       "strategy_pct": -1.9888,
-      "buy_and_hold_pct": -2.0312
+      "buy_and_hold_pct": -2.0313
     },
     {
       "month": "2015-07",
       "strategy_pct": 0.6025,
-      "buy_and_hold_pct": 2.2589
+      "buy_and_hold_pct": 2.259
     },
     {
       "month": "2015-08",
@@ -110,22 +110,22 @@
     {
       "month": "2016-05",
       "strategy_pct": 1.0632,
-      "buy_and_hold_pct": 1.7011
+      "buy_and_hold_pct": 1.7012
     },
     {
       "month": "2016-06",
       "strategy_pct": -3.5994,
-      "buy_and_hold_pct": 0.3476
+      "buy_and_hold_pct": 0.3475
     },
     {
       "month": "2016-07",
       "strategy_pct": 3.942,
-      "buy_and_hold_pct": 3.6471
+      "buy_and_hold_pct": 3.6472
     },
     {
       "month": "2016-08",
       "strategy_pct": 0.0829,
-      "buy_and_hold_pct": 0.1198
+      "buy_and_hold_pct": 0.1197
     },
     {
       "month": "2016-09",
@@ -140,7 +140,7 @@
     {
       "month": "2016-11",
       "strategy_pct": 3.7911,
-      "buy_and_hold_pct": 3.6838
+      "buy_and_hold_pct": 3.6839
     },
     {
       "month": "2016-12",
@@ -215,12 +215,12 @@
     {
       "month": "2018-02",
       "strategy_pct": -7.6314,
-      "buy_and_hold_pct": -3.6361
+      "buy_and_hold_pct": -3.636
     },
     {
       "month": "2018-03",
       "strategy_pct": -4.3452,
-      "buy_and_hold_pct": -2.741
+      "buy_and_hold_pct": -2.7411
     },
     {
       "month": "2018-04",
@@ -250,7 +250,7 @@
     {
       "month": "2018-09",
       "strategy_pct": 0.7832,
-      "buy_and_hold_pct": 0.5945
+      "buy_and_hold_pct": 0.5946
     },
     {
       "month": "2018-10",
@@ -265,7 +265,7 @@
     {
       "month": "2018-12",
       "strategy_pct": -0.5185,
-      "buy_and_hold_pct": -8.8049
+      "buy_and_hold_pct": -8.8048
     },
     {
       "month": "2019-01",
@@ -275,7 +275,7 @@
     {
       "month": "2019-02",
       "strategy_pct": 3.809,
-      "buy_and_hold_pct": 3.2415
+      "buy_and_hold_pct": 3.2416
     },
     {
       "month": "2019-03",
@@ -295,17 +295,17 @@
     {
       "month": "2019-06",
       "strategy_pct": 7.7622,
-      "buy_and_hold_pct": 6.9587
+      "buy_and_hold_pct": 6.9586
     },
     {
       "month": "2019-07",
       "strategy_pct": -0.2147,
-      "buy_and_hold_pct": 1.5119
+      "buy_and_hold_pct": 1.512
     },
     {
       "month": "2019-08",
       "strategy_pct": -5.0079,
-      "buy_and_hold_pct": -1.6743
+      "buy_and_hold_pct": -1.6744
     },
     {
       "month": "2019-09",
@@ -355,7 +355,7 @@
     {
       "month": "2020-06",
       "strategy_pct": 5.4744,
-      "buy_and_hold_pct": 1.7735
+      "buy_and_hold_pct": 1.7734
     },
     {
       "month": "2020-07",
@@ -370,12 +370,12 @@
     {
       "month": "2020-09",
       "strategy_pct": -1.1598,
-      "buy_and_hold_pct": -3.7443
+      "buy_and_hold_pct": -3.7444
     },
     {
       "month": "2020-10",
       "strategy_pct": -2.7141,
-      "buy_and_hold_pct": -2.4933
+      "buy_and_hold_pct": -2.4934
     },
     {
       "month": "2020-11",
@@ -405,7 +405,7 @@
     {
       "month": "2021-04",
       "strategy_pct": 5.2786,
-      "buy_and_hold_pct": 5.291
+      "buy_and_hold_pct": 5.2911
     },
     {
       "month": "2021-05",
@@ -415,7 +415,7 @@
     {
       "month": "2021-06",
       "strategy_pct": 0.5119,
-      "buy_and_hold_pct": 2.2427
+      "buy_and_hold_pct": 2.2428
     },
     {
       "month": "2021-07",
@@ -550,7 +550,7 @@
     {
       "month": "2023-09",
       "strategy_pct": -5.8587,
-      "buy_and_hold_pct": -4.7435
+      "buy_and_hold_pct": -4.7434
     },
     {
       "month": "2023-10",
@@ -570,7 +570,7 @@
     {
       "month": "2024-01",
       "strategy_pct": 2.6411,
-      "buy_and_hold_pct": 1.5926
+      "buy_and_hold_pct": 1.5927
     },
     {
       "month": "2024-02",
@@ -615,12 +615,12 @@
     {
       "month": "2024-10",
       "strategy_pct": -0.3628,
-      "buy_and_hold_pct": -0.8923
+      "buy_and_hold_pct": -0.8924
     },
     {
       "month": "2024-11",
       "strategy_pct": 4.3902,
-      "buy_and_hold_pct": 5.9633
+      "buy_and_hold_pct": 5.9634
     },
     {
       "month": "2024-12",
