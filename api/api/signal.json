@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-24",
-  "date": "2026-03-24",
+  "last_updated": "2026-03-25",
+  "date": "2026-03-25",
   "state": 0,
   "state_label": "flat",
   "signal": "flat",
-  "confidence": 0.9049,
+  "confidence": 0.881,
   "note": "Signal applies to next trading day open."
 }
