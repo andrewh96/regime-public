@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-04-10",
   "oos_start": "2014-07-29",
-  "oos_end": "2026-04-09",
+  "oos_end": "2026-04-10",
   "strategy": {
-    "cagr_pct": 9.0811,
-    "ann_vol_pct": 10.8883,
+    "cagr_pct": 9.0802,
+    "ann_vol_pct": 10.8864,
     "max_drawdown_pct": -16.7963,
-    "calmar": 0.5407,
+    "calmar": 0.5406,
     "sharpe": 0.8548,
-    "sortino": 0.9245,
-    "skewness": -0.7281,
-    "excess_kurtosis": 9.6142,
-    "exposure_long_pct": 75.017,
-    "exposure_tbill_pct": 24.983,
+    "sortino": 0.9243,
+    "skewness": -0.7282,
+    "excess_kurtosis": 9.6184,
+    "exposure_long_pct": 74.9915,
+    "exposure_tbill_pct": 25.0085,
     "n_trades": 122,
-    "trips_per_year": 10.4308,
+    "trips_per_year": 10.4284,
     "mean_days_between": 6.1,
     "mean_hold_days": 18.1,
     "median_hold_days": 4.0,
@@ -26,13 +26,13 @@
     "median_ret_per_trip_pct": 0.0085
   },
   "buy_and_hold": {
-    "cagr_pct": 13.08,
-    "ann_vol_pct": 17.5519,
+    "cagr_pct": 13.0704,
+    "ann_vol_pct": 17.5489,
     "max_drawdown_pct": -33.7173,
-    "calmar": 0.3879,
-    "sharpe": 0.7901,
-    "sortino": 0.9668,
-    "skewness": -0.3009,
-    "excess_kurtosis": 14.0809
+    "calmar": 0.3876,
+    "sharpe": 0.7896,
+    "sortino": 0.9662,
+    "skewness": -0.3008,
+    "excess_kurtosis": 14.0865
   }
 }
