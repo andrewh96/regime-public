@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-06",
-  "date": "2026-07-06",
+  "last_updated": "2026-07-07",
+  "date": "2026-07-07",
   "state": 1,
   "state_label": "long",
   "signal": "long",
-  "confidence": 0.9796,
+  "confidence": 0.9916,
   "note": "Signal applies to next trading day open."
 }
