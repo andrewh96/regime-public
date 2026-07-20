@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-20",
   "n_trades": 126,
   "trades": [
     {
@@ -1001,6 +1001,14 @@
       "return_pct": 0.0146,
       "hold_days": 1,
       "result": "win"
+    },
+    {
+      "trade": 126,
+      "entry_date": "2026-07-02",
+      "exit_date": "2026-07-20",
+      "return_pct": -0.2107,
+      "hold_days": 11,
+      "result": "loss"
     }
   ]
 }
