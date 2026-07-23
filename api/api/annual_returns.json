@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22",
+  "last_updated": "2026-07-23",
   "note": "Completed calendar years only. Values are percent returns.",
   "years": {
     "2015": {
@@ -24,7 +24,7 @@
     },
     "2020": {
       "strategy_pct": 13.5002,
-      "buy_and_hold_pct": 18.3316
+      "buy_and_hold_pct": 18.3317
     },
     "2021": {
       "strategy_pct": 7.1313,
