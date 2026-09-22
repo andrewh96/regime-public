@@ -26,13 +26,13 @@
     "median_ret_per_trip_pct": 0.0094
   },
   "buy_and_hold": {
-    "cagr_pct": 13.6556,
-    "ann_vol_pct": 17.3876,
-    "max_drawdown_pct": -33.7172,
-    "calmar": 0.405,
-    "sharpe": 0.825,
-    "sortino": 1.0133,
-    "skewness": -0.3033,
-    "excess_kurtosis": 14.1191
+    "cagr_pct": 13.6788,
+    "ann_vol_pct": 17.3875,
+    "max_drawdown_pct": -33.7173,
+    "calmar": 0.4057,
+    "sharpe": 0.8262,
+    "sortino": 1.0145,
+    "skewness": -0.3035,
+    "excess_kurtosis": 14.1194
   }
 }
