@@ -28,7 +28,7 @@
   "buy_and_hold": {
     "cagr_pct": 13.7989,
     "ann_vol_pct": 17.3554,
-    "max_drawdown_pct": -33.7172,
+    "max_drawdown_pct": -33.7173,
     "calmar": 0.4093,
     "sharpe": 0.8336,
     "sortino": 1.024,
