@@ -28,11 +28,11 @@
   "buy_and_hold": {
     "cagr_pct": 13.7132,
     "ann_vol_pct": 17.3501,
-    "max_drawdown_pct": -33.7173,
+    "max_drawdown_pct": -33.7172,
     "calmar": 0.4067,
     "sharpe": 0.8293,
     "sortino": 1.0188,
-    "skewness": -0.3035,
+    "skewness": -0.3034,
     "excess_kurtosis": 14.1627
   }
 }
