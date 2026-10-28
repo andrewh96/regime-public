@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-26",
   "note": "Completed calendar years only. Values are percent returns.",
   "years": {
     "2015": {
@@ -8,7 +8,7 @@
     },
     "2016": {
       "strategy_pct": 9.3905,
-      "buy_and_hold_pct": 11.9979
+      "buy_and_hold_pct": 11.9978
     },
     "2017": {
       "strategy_pct": 19.0188,
@@ -28,11 +28,11 @@
     },
     "2021": {
       "strategy_pct": 7.1313,
-      "buy_and_hold_pct": 28.7287
+      "buy_and_hold_pct": 28.7288
     },
     "2022": {
       "strategy_pct": 4.5664,
-      "buy_and_hold_pct": -18.1753
+      "buy_and_hold_pct": -18.1754
     },
     "2023": {
       "strategy_pct": 27.3028,
@@ -40,11 +40,11 @@
     },
     "2024": {
       "strategy_pct": 23.4842,
-      "buy_and_hold_pct": 24.8865
+      "buy_and_hold_pct": 24.8864
     },
     "2025": {
       "strategy_pct": 13.7961,
-      "buy_and_hold_pct": 17.719
+      "buy_and_hold_pct": 17.7191
     }
   }
 }
