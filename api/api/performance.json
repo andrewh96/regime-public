@@ -32,7 +32,7 @@
     "calmar": 0.3974,
     "sharpe": 0.812,
     "sortino": 0.9954,
-    "skewness": -0.3172,
+    "skewness": -0.3171,
     "excess_kurtosis": 14.0219
   }
 }
