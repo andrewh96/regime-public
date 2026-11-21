@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "n_trades": 129,
   "trades": [
     {
@@ -1024,6 +1024,14 @@
       "exit_date": "2026-11-05",
       "return_pct": 3.5706,
       "hold_days": 72,
+      "result": "win"
+    },
+    {
+      "trade": 129,
+      "entry_date": "2026-11-19",
+      "exit_date": "2026-11-20",
+      "return_pct": 0.0164,
+      "hold_days": 1,
       "result": "win"
     }
   ]
